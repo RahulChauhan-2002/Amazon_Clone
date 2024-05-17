@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../Apps/Vs code"
+		},
+		{
+			"path": "../../6th sem/WT"
+		},
+		{
+			"path": "../../oneDrive/OneDrive - infocis/Desktop/Book_store_mern"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "WT"
+	}
+}
